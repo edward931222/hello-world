@@ -1,2 +1,2 @@
 # hello-world
-otro repositorio
+oeste es un archivo readme
